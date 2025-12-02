@@ -6,6 +6,7 @@ Este repositório contém uma série de desafios de programação para reforçar
 
 Estes desafios focam em **tipos de dados**, **estruturas de controle** (`if`, `for`, `while`) e manipulação básica de `arrays` e `strings`.
 
+
 | Desafio | Foco Principal | Detalhamento |
 | :--- | :--- | :--- |
 | **1. Calculadora Simples** | Estruturas de Controle e I/O | Crie um programa que peça dois números e a operação (+, -, *, /). Use um `switch` para executar a operação. Implemente tratamento básico para **divisão por zero**. |
